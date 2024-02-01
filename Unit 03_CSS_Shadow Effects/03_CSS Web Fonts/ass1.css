@@ -1,0 +1,6 @@
+p{
+    @font-face {
+        font-family: myFirstFont;
+        src: url(going-to-do-great-things.zip);
+    }
+}
