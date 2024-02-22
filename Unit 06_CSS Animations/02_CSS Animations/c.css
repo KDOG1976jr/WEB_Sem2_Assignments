@@ -1,0 +1,32 @@
+@keyframes spanish{
+    from {background-color: blue;}
+    to {background-color: yellow;}
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    animation-name: spanish;
+    animation-duration: 10s;
+}
+
+
+
+
+@keyframes blowpop{
+    0%   {background-color: red;}
+    25%  {background-color: black;}
+    50% {background-color: green;}
+    100% {background-color: blue;}
+}
+
+
+
+p{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    animation-name: blowpop;
+    animation-duration: 10s;
+}
