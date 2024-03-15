@@ -1,6 +1,6 @@
 {
     "workbench.colorCustomizations": {
-        "minimap.background": "#FFAA2200",
-        "scrollbar.shadow": "#FFAA2200"
+        "minimap.background": "#FFAA22FF",
+        "scrollbar.shadow": "#FFAA22FF"
     }
 }
