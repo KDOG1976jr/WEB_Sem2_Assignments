@@ -1,10 +1,5 @@
-.mask1{
-    width: 600px;
-    height: 400px;
-    
-    -webkit-mask-image: url(nvidia.png);
-    mask-image: url(nvidia.png);
-    -webkit-mask-repeat: no-repeat;
-    mask-repeat: no-repeat;
-
+img{
+    -webkit-mask-image: linear-gradient(black, transparent);
+    mask-image: linear-gradient(black, transparent);
 }
+
