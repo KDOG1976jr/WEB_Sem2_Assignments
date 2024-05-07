@@ -1,0 +1,19 @@
+div{
+background-color: black;
+
+}
+.img2{
+    width: 100px;
+    height: 300px;
+    object-fit: scale-down;
+    
+}
+.img3{
+    width: 200px;
+    height: 300px;
+    object-position: 60%;
+}
+p{
+    background-color: black;
+    color: white;
+}
